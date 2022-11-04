@@ -1,9 +1,8 @@
 
-# Bath & Body Works
+# PraWach Works
 
 ## Summary
-This is the project work of Unit 2 and we are the team of 6 people who have contibuted in this project.
-Bath & Body Works, LLC. is an American retail store chain that sells soaps, lotions, fragrances, and candles. It was founded in 1990 in New Albany, Ohio and has since expanded across 6 continents. In 1997, it was the largest bath shop chain in the United States.
+
 
 ## Screenshots
 - ### Landing Page
